@@ -4,4 +4,5 @@ branches:
 projects:
   HideAccess:
     path: ""
+    icon: "cross_stop_delete_denied_noaccess-512.png"
 ...
