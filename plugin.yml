@@ -1,0 +1,6 @@
+name: HideExcess
+main: hideaccess\Main
+api: 3.8.2
+version: 1.0
+author: ItsMeAcktar
+description: "hide commands that players dont have perms to use"
