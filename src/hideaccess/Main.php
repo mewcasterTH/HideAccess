@@ -4,7 +4,7 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 use pocketmine\event\server\DataPacketSendEvent;
 use pocketmine\network\mcpe\protocol\AvailableCommandsPacket;
-class HideExcess extends PluginBase implements Listener
+class Main extends PluginBase implements Listener
 {
     public function onEnable()
     {
